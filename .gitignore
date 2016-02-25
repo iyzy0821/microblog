@@ -1,0 +1,4 @@
+.vscode
+*.pyc
+flask
+.DS_Store
