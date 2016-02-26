@@ -3,3 +3,6 @@
 *.pyc
 flask
 .DS_Store
+db_repository
+app.db
+tmp
