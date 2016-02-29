@@ -6,3 +6,5 @@ flask
 db_repository
 app.db
 tmp
+test.db
+microblog.log
